@@ -4,10 +4,10 @@
   <p><strong>Real-time cryptocurrency tracking dashboard with live market data, trending coins, and comprehensive analytics</strong></p>
   
   <div>
-    <a href="https://crypto-dashboard-main-ds3xgzlqi-harsh-yadavs-projects-0b2945f8.vercel.app" target="_blank">
+    <a href="https://cryptodash-houewwvpj-dhruvgarg4521s-projects.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-View%20Dashboard-blue?style=for-the-badge&logo=vercel" alt="Live Demo"/>
     </a>
-    <a href="https://github.com/HarshYadv5554/crypto-dashboard" target="_blank">
+    <a href="https://github.com/dhruvgarg4521/cryptodash" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
   </div>
@@ -25,7 +25,7 @@
 
 ## 📊 Live Demo
 
-**🌐 [View Live Dashboard](https://crypto-dashboard-main-ds3xgzlqi-harsh-yadavs-projects-0b2945f8.vercel.app)**
+**🌐 [View Live Dashboard](https://cryptodash-houewwvpj-dhruvgarg4521s-projects.vercel.app/)**
 
 ---
 
@@ -98,8 +98,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HarshYadv5554/crypto-dashboard.git
-   cd crypto-dashboard
+   https://github.com/dhruvgarg4521/cryptodash.git
+   cd Crypto-Dashboard-main
    ```
 
 2. **Install dependencies**
@@ -245,11 +245,11 @@ This project is licensed under the **AGPL v3 License**.
 
 ## 📞 Support & Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshYadv5554/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav5554/)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvgarg4521/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-garg-546a38248/)
 
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ by Harsh Yadav</strong></p>
+  <p><strong>Built with ❤️ by Dhruv Garg</strong></p>
 </div>
